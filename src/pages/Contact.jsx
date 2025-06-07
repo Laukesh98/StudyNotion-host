@@ -1,6 +1,6 @@
 import React from "react"
 
-import Footer from "../Components/Common/Footer"
+import Footer from "../Components/Common/Footer.jsx"
 import ReviewSlider from "../Components/Common/ReviewSlider"
 import ContactForm from "../Components/core/ContactUsPage/ContactForm"
 import ContactDetails from "../Components/core/ContactUsPage/ContactDetails"
