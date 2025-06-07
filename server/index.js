@@ -25,7 +25,7 @@ app.use(express.json())     // body parser
 app.use(cookieParser())
 app.use(
     cors({
-    origin:'https://study-notion-host-laukeshs-projects.vercel.app/',
+    origin:'https://study-notion-host-laukeshs-projects.vercel.app',
     credentials:true        // This allows cookie jwt other senstive info flow with requests 
 }))
 
