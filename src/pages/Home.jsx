@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { GoArrowRight } from "react-icons/go";
-import HighlightText from "../components/core/HomePage/HighlightText";
+import HighlightText from "../Components/core/HomePage/HighlightText";
 import CTAButton from '../Components/core/HomePage/Button'
 import Banner from '../assets/Images/banner.mp4'
 import CodeBlocks from "../Components/core/HomePage/CodeBlocks";
