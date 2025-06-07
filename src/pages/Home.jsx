@@ -10,7 +10,7 @@ import TimelineSection from "../Components/core/HomePage/TimelineSection"
 import LearningLanguageSection from "../Components/core/HomePage/LearningLanguageSection";
 import InstructorSection from "../Components/core/HomePage/InstructorSection";
 import ReviewSlider from "../Components/common/ReviewSlider";
-import Footer from "../components/common/Footer";
+import Footer from "../Components/common/Footer";
 
 
 const Home = () => {
