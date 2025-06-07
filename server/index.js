@@ -25,7 +25,7 @@ app.use(express.json())     // body parser
 app.use(cookieParser())
 app.use(
     cors({
-    origin:'http://localhost:3000',
+    origin:'https://study-notion-host-pi.vercel.app/',
     credentials:true        // This allows cookie jwt other senstive info flow with requests 
 }))
 
